@@ -82,7 +82,7 @@ jupyterlab==4.2.5
 jupyterlab-pygments==0.3.0
 jupyterlab-server==2.27.1
 jupyterlab-widgets==3.0.10
-keras==3.3.3
+keras==3.9.0
 kiwisolver==1.4.5
 krb5==1.21.2
 langcodes==3.4.0
